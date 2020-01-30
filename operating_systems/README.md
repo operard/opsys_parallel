@@ -14,8 +14,10 @@
 
 - Cooperation Processes
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_4_coop.pdf
+
 - Concurrency
 - IPC
+
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_5_conc.pdf
 
 

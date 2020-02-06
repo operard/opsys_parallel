@@ -20,4 +20,12 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_pa
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_5_conc.pdf
 
+## Session 7-8
+
+- Memory
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_6_mem.pdf
+
+- Virtual Memory
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_7_virt.pdf
 

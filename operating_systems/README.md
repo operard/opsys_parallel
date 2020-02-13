@@ -29,3 +29,7 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_pa
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_7_virt.pdf
 
+## Session 9-10
+
+- Disk Management
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_9_disk.pdf

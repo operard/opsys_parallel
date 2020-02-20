@@ -33,3 +33,11 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_pa
 
 - Disk Management
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_2_9_disk.pdf
+
+## Session 11-12
+
+- Labs
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_linux_labs.pdf
+
+- Examples in directory labs
+

@@ -41,3 +41,7 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_li
 
 - Examples in directory labs
 
+- Generic Linux Info
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_linux_generic.pdf
+

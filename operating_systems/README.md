@@ -45,3 +45,15 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_li
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_linux_generic.pdf
 
+
+## Session 13-14
+
+- Other OS:
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_macos_examples.pdf
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_windows_examples.pdf
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_oel7_examples.pdf
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples/cluster_analysis.py

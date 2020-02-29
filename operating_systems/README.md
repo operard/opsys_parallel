@@ -48,12 +48,18 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_li
 
 ## Session 13-14
 
-- Other OS:
+- MacOS:
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_macos_examples.pdf
 
+- Windows (updated 29/02/2020):
+
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_windows_examples.pdf
 
+- Oracle Linux:
+
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_oel7_examples.pdf
+
+- Python Example to compare in different OS:
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples/cluster_analysis.py

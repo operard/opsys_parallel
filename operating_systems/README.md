@@ -39,7 +39,7 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_pa
 
 ## Session 11-12
 
-- Labs
+- Linux Labs
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_linux_labs.pdf
 
 - Examples in directory labs

@@ -66,3 +66,10 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_oe
 - Python Example to compare in different OS:
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples/cluster_analysis.py
+
+
+## Session 15
+
+- First Exam
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/exam_midterm_opsys.pdf

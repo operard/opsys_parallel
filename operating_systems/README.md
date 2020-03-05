@@ -70,6 +70,6 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples
 
 ## Session 15
 
-- First Exam
+- First Exam (corrected)
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/exam_midterm_opsys.pdf

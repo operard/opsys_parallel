@@ -4,6 +4,7 @@
 
 -	Operating Systems Review. 
 
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session1.pdf
 
 ## Session 2
 

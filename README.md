@@ -4,8 +4,15 @@ Operating Systems &amp; Parallel Computing Course
 
 ## Operating Systems for MCSBT
 
+All Sessions can be found here:
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/README.md
+
 ## Operating Systems for BDBA
 
+All Sessions can be found here:
+
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/README.md
 
 # books Reference for Operating Systems
 

@@ -2,9 +2,10 @@
 
 ## Session 1-2
 
--	Operating system principles and computer architecture. 
+-	Operating Systems principles and computer architecture. 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_1_1.pdf
--	Operating system kernels
+
+-	Operating Systems kernels
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/opsys_parcomp_1_2.pdf
 
 ## Session 3-4

@@ -18,6 +18,7 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_macos.pdf
 
 - Example:
 
+https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples/README.md
 
 ## Session 3
 

@@ -8,6 +8,17 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session1.pdf
 
 ## Session 2
 
+- Windows:
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_windows.pdf
+
+- MacOS:
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_macos.pdf
+
+- Example:
+
+
 ## Session 3
 
 ## Session 4

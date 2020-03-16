@@ -8,5 +8,7 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/examples/test_proces
 
 ## Threads
 
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/examples/test_thread.py
 
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/examples/test_thread2.py
 

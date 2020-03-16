@@ -22,6 +22,12 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples
 
 ## Session 3
 
+
+
+-Examples:
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/examples/README.md
+
 ## Session 4
 
 ## Session 5

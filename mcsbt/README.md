@@ -22,7 +22,7 @@ https://github.com/operard/opsys_parallel/blob/master/operating_systems/examples
 
 ## Session 3
 
-
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session3.pdf
 
 -Examples:
 

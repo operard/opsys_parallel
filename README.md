@@ -14,6 +14,12 @@ All Sessions can be found here:
 
 https://github.com/operard/opsys_parallel/blob/master/operating_systems/README.md
 
+## Parallel Computing for BDBA
+
+All Sessions can be found here:
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/README.md
+
 # books Reference for Operating Systems
 
 A free online version of “Modern Operating Systems” can be downloaded from:  https://github.com/gramasaurous/opsys/blob/master/Modern.Operating.Systems.3rd.Edition.pdf

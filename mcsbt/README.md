@@ -42,6 +42,12 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/communicating_with_q
 
 https://github.com/operard/opsys_parallel/blob/master/mcsbt/communicating_with_pipe.py
 
+## Session 6
+
+test Example:
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/exam_opsys_example.pdf
+
 
 # books Reference for Operating Systems
 

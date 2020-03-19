@@ -30,7 +30,14 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/examples/README.md
 
 ## Session 4
 
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session4.pdf
+
 ## Session 5
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session5.pdf
+
+Examples:
+
 
 
 # books Reference for Operating Systems

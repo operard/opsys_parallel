@@ -18,6 +18,17 @@ First Exam for Operating Systems.
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session18/README.md
 
+### Session19-20 
+
+- GPU & CUDA
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_3.pdf
+
+### Session21-22 
+
+- HPC
+
+
 ## Other References
 
 To download the recommended textbooks for Parallel Computing, visit the following site:

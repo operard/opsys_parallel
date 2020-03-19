@@ -38,6 +38,9 @@ https://github.com/operard/opsys_parallel/blob/master/mcsbt/opsys_session5.pdf
 
 Examples:
 
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/communicating_with_queue.py
+
+https://github.com/operard/opsys_parallel/blob/master/mcsbt/communicating_with_pipe.py
 
 
 # books Reference for Operating Systems

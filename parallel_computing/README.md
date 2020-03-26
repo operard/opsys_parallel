@@ -28,6 +28,19 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_p
 
 - HPC
 
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_4.pdf
+
+- HPC Azure Detail
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/hpc_azure.pdf
+
+- HPC Oracle Detail
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/hpc_oracle.pdf
+
+### Session23-24 
+
+- Big Data
 
 ## Other References
 

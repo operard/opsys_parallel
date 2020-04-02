@@ -42,6 +42,8 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/hpc_ora
 
 - Big Data
 
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_5.pdf
+
 ## Other References
 
 To download the recommended textbooks for Parallel Computing, visit the following site:

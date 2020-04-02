@@ -44,6 +44,13 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/hpc_ora
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_5.pdf
 
+
+### Final Project 
+
+- Parallel Computing Project
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_5_1.pdf
+
 ## Other References
 
 To download the recommended textbooks for Parallel Computing, visit the following site:

@@ -50,6 +50,9 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_p
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_6.pdf
 
+- Quantum Algorithms for beginners
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/1804.03719.pdf
 
 ### Final Project 
 

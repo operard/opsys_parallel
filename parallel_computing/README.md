@@ -44,6 +44,12 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/hpc_ora
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_5.pdf
 
+### Session25-26 
+
+- Quantum Architecture
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_4_6.pdf
+
 
 ### Final Project 
 

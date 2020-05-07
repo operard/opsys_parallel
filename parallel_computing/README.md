@@ -71,6 +71,9 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_p
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session27/README.md
 
+- How to publish the results for Final Project
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/GroupXX_finalproject.pptx
 
 
 ## Other References

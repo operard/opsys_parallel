@@ -54,11 +54,24 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_p
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/1804.03719.pdf
 
+
 ### Final Project 
 
 - Parallel Computing Project
 
 https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_5_1.pdf
+
+### Session27-28
+
+- Final Exam Revision
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/opsys_parcomp_6_1.pdf
+
+- Examples for Final Project
+
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session27/README.md
+
+
 
 ## Other References
 

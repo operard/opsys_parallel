@@ -13,8 +13,11 @@ https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session
 
 - MPI4PY for HPC
 
-https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session27/README.md
+https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session27/mpi4py.pdf
 
 - GPU and PyCUDA
 
-https://github.com/operard/opsys_parallel/blob/master/parallel_computing/session27/README.md
+https://documen.tician.de/pycuda/tutorial.html
+
+https://github.com/jonmarty/PyCuda-KMeans
+

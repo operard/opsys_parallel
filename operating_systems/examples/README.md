@@ -11,8 +11,8 @@ Download the data (2 files *.001 and *.002) to your PC.
 Recreate the CSV file with the next commands:
 
 ```bash
-cat sesion.csv.gz.* > sesion.gz
-gzip -d sesion.gz
+cat sesion.csv.gz.* > sesion.csv.gz
+gzip -d sesion.csv.gz
 ```
 execute the python command from terminal:
 
